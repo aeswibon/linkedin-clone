@@ -121,7 +121,7 @@ function Right() {
 				</Recommendation>
 			</FollowCard>
 			<BannerCard>
-				<img src="/images/job-ad.jpg" alt="" />
+				
 			</BannerCard>
 		</Container>
 	);
